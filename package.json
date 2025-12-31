@@ -1,0 +1,13 @@
+{
+  "name": "cors-proxy-vercel",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "dependencies": {
+    "access-control": "^1.0.1",
+    "marked": "^11.1.1",
+    "promisepipe": "^3.0.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
